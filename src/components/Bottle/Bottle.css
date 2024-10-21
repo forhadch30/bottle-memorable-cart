@@ -1,0 +1,12 @@
+.img-content {
+    padding: 10px;
+    border: 2px solid blueviolet;
+    border-radius: 10px;
+    margin: 10px;
+
+}
+
+.img-content img {
+    width: 250px;
+    border-radius: 10px;
+}
